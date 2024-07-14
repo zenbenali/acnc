@@ -1,6 +1,6 @@
-# Project README: Huong Hua Co. Ltd. Website
+# Project README: ACNC-RCA. Website
 
-This README provides detailed information about the Huong Hua Co. Ltd. website project. The website is tailored for a company specializing in bathroom equipment design and construction, offering comprehensive insights into the company's services, portfolio, career opportunities, and more.
+T
 
 ## Overview
 
@@ -9,20 +9,20 @@ Huong Hua Co. Ltd. is dedicated to delivering top-quality bathroom solutions, ra
 ## Features
 
 ### 1. Home Page
-- Introduction to Huong Hua Co. Ltd.
+- Introduction to acnc. Ltd.
 - Quick navigation links to various sections of the website.
 
 ### 2. About Us
 - Details about the company's history, mission, and values.
-- Overview of the company's specializations in bathroom solutions.
+- Overview of the company's specializations
 
 ### 3. Services
-- Detailed descriptions of services offered, such as bathroom design, installation, and renovation.
-- Custom content aligning with the company's expertise in bathroom solutions.
+- Detailed descriptions of services offered
+- Custom content aligning with the company's expertise in 
 
 ### 4. Portfolio
 - Showcase of completed projects.
-- Images and descriptions of various bathroom designs and constructions.
+- Images and descriptions of various projects.
 
 ### 5. Team
 - Information about the key team members.
@@ -64,7 +64,7 @@ To set up the website locally, follow these steps:
 1. **Clone the Repository:**
     - Use `git clone https://github.com/your-repository-url.git`
 2. **Navigate to the Project Directory:**
-    - `cd huong-hua-co-ltd-website`
+    - `acnc-website`
 3. **Open the HTML Files:**
     - Use any web browser to open HTML files.
 
