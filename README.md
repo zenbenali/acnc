@@ -4,7 +4,7 @@ T
 
 ## Overview
 
-Huong Hua Co. Ltd. is dedicated to delivering top-quality bathroom solutions, ranging from design to installation and renovation. The website serves as a digital platform to showcase the company's expertise, project portfolio, client testimonials, and career opportunities.
+ACNC . The website serves as a digital platform to showcase the company's expertise, project portfolio, client testimonials, and career opportunities.
 
 ## Features
 
@@ -86,6 +86,6 @@ Contributions to the website are welcome. Please adhere to the following guideli
 
 ## Support
 
-For support, contact info@huonghuaco.vn or open an issue in the GitHub repository.
+For support, contact info.zenastra@gmail.com or open an issue in the GitHub repository.
 
 ---
